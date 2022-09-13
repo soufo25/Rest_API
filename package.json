@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0"
+  },
+  "scripts": {
+    "dev": "nodemon Server.js"
+  },
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "my rest API",
+  "main": "Server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "author": "Nteyou",
+  "license": "ISC"
+}
